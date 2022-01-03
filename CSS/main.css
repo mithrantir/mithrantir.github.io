@@ -1,0 +1,22 @@
+@font-face {
+    font-family: garamon;
+    src: url(../fonts/EB_Garamond/EBGaramond-Italic-VariableFont_wght.ttf);
+}
+
+
+a:hover {
+    color:aquamarine;
+}
+
+h1 {
+    color:brown;
+}
+
+#egg {
+    color:black;
+    text-decoration: none;
+}
+
+#egg:-webkit-any-link {
+    cursor:auto;
+}
